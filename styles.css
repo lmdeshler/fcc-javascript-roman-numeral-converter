@@ -22,13 +22,9 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 50px;
     line-height: inherit;
 }
-}
-
-h1 {
-  margin: 15px 0 20px;
 }
 
 .btn {

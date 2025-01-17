@@ -63,3 +63,4 @@ cursor: pointer;
     --tw-shadow: 5px 6px;
     --tw-shadow-colored: 5px 6px var(--tw-shadow-color);
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
